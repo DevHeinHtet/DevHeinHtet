@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Hein Htet Kyaw</h1>
 <h2 align="center">Senior C# Developer</h2>
-<img align="right" alt="coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1kHEgewyUp-ttr19nwwZ7nUUfCEwfYsJE3w&s"/>
+<img align="right" alt="coding" width="400" src="https://miro.medium.com/v2/resize:fit:1358/0*MLqvFzwwZFAuOgup.gif"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devheinhtet&label=Profile%20views&color=0e75b6&style=flat" alt="devheinhtet" /> </p>
 
